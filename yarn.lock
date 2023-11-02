@@ -1098,10 +1098,10 @@ hexo-pagination@3.0.0, hexo-pagination@^3.0.0:
   resolved "https://registry.npmmirror.com/hexo-pagination/-/hexo-pagination-3.0.0.tgz"
   integrity sha512-8oo1iozloZo7TojPVYg4IxL3SJKCBdSJ908fTlIxIK7TWJIKdYnQlW31+12DBJ0NhVZA/lZisPObGF08wT8fKw==
 
-hexo-plugin-aurora@^1.8.3:
-  version "1.8.3"
-  resolved "https://registry.npmmirror.com/hexo-plugin-aurora/-/hexo-plugin-aurora-1.8.3.tgz"
-  integrity sha512-VH+rRTdGIC1OMpwkQAXTNNWUhw4i+EumY7FSp9ZdP3BTp8XHCjrFQB4y9HQ4pq95ZIxIEisoIkk2cpd97TGdvQ==
+hexo-plugin-aurora@^1.8.4:
+  version "1.8.4"
+  resolved "https://registry.yarnpkg.com/hexo-plugin-aurora/-/hexo-plugin-aurora-1.8.4.tgz#83d23f42da4ebd3d894543699386e07ff4b348fd"
+  integrity sha512-PU8O0+8Bx8tVsm/VZyp6YyVn+MKeXvgKw9R5mUej+l6Y53VJRLI0ECSGCg3dvqBZ2UWLuaI+4v3Q2KyMLjxISA==
   dependencies:
     algoliasearch "^4.19.1"
     app-root-path "^3.1.0"
